@@ -1,3 +1,6 @@
 [submodule "strings-and-files"]
 	path = strings-and-files
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/strings-and-files.git
+[submodule "tfidf"]
+	path = tfidf
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/tfidf.git
