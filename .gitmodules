@@ -7,3 +7,6 @@
 [submodule "word-counts"]
 	path = word-counts
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/word-counts.git
+[submodule "topics-and-emotions"]
+	path = topics-and-emotions
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/topics-and-emotions.git
