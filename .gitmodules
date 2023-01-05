@@ -4,3 +4,6 @@
 [submodule "tfidf"]
 	path = tfidf
 	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/tfidf.git
+[submodule "word-counts"]
+	path = word-counts
+	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/word-counts.git
