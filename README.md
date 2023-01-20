@@ -1,6 +1,16 @@
 # Text Analysis with Python
 
+Here you will find Jupyter notebooks designed for a workshop series on text analysis at Dartmouth College. Dartmouth's Research Data Services department has organized the first run of this text analysis series for Winter Term, 2023.
 
+In this project, you will find lesson notebooks for each lesson in the series as well as ancillary notebooks for additional training:
+
+## Lesson Notebooks
+
+1. The State of the Union is ... long?: Working with Strings and Files
+2. The United States is / are ? Counting Words and Terms
+3. Comparing Texts: TFIDF???
+4. ??
+5. 
 
 ## Getting started
 
