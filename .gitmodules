@@ -1,18 +1,18 @@
 [submodule "strings-and-files"]
 	path = strings-and-files
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/strings-and-files.git
+	url = git@github.com:Dartmouth-Libraries/Strings-and-Files.git
 [submodule "tfidf"]
 	path = tfidf
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/tfidf.git
+	url = git@github.com:Dartmouth-Libraries/TFIDF.git
 [submodule "word-counts"]
 	path = word-counts
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/word-counts.git
+	url = git@github.com:Dartmouth-Libraries/Word-Counts.git
 [submodule "topics-and-emotions"]
 	path = topics-and-emotions
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/topics-and-emotions.git
+	url = git@github.com:Dartmouth-Libraries/Topics-and-Emotions.git
 [submodule "next-steps"]
 	path = next-steps
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/next-steps.git
+	url = git@github.com:Dartmouth-Libraries/Next-Steps.git
 [submodule "text-classification"]
 	path = text-classification
-	url = git@git.dartmouth.edu:lib-digital-strategies/RDS/workshops/text-analysis/text-classification.git
+	url = git@github.com:Dartmouth-Libraries/Text-Classification.git
